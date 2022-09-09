@@ -1,0 +1,79 @@
+{
+    "employee": [
+        {
+            "department": "Sales",
+            "id": "01",
+            "name": "John"
+        },
+        {
+            "department": "HR",
+            "id": "02",
+            "name": "Peter"
+        },
+        {
+            "department": "Developer",
+            "id": "03",
+            "name": "Sam"
+        },
+        {
+            "department": "Developer",
+            "id": "04",
+            "name": "Jancy"
+        },
+        {
+            "department": "HR",
+            "id": "05",
+            "name": "JKTE"
+        },
+        {
+            "department": "HR",
+            "id": "04",
+            "name": "JKTE"
+        },
+        {
+            "department": "HR",
+            "id": "06",
+            "name": "JKTE"
+        },
+        {
+            "department": "HR",
+            "id": "06",
+            "name": "JKTE"
+        },
+        {
+            "id": "06",
+            "name": "JKTE",
+            "department": "HR"
+        },
+        {
+            "id": "06",
+            "name": "JKTE",
+            "department": "HR"
+        },
+        {
+            "id": "06",
+            "name": "JKTE",
+            "department": "HR"
+        },
+        {
+            "id": "06",
+            "name": "JKTE",
+            "department": "HR"
+        },
+        {
+            "id": "06",
+            "name": "JKTE",
+            "department": "HR"
+        },
+        {
+            "id": "05",
+            "name": "JKTE",
+            "department": "HR"
+        },
+        {
+            "id": "05",
+            "name": "JKTE",
+            "department": "HR"
+        }
+    ]
+}

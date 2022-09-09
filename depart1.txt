@@ -1,0 +1,10 @@
+45 HR 			11
+47 testing 		21
+48 associate 		31
+49 softwaredeveloper 	41
+50 seniorconsultant 	51
+51 tesing		61
+52 consultant		71
+53 consultant
+54 consultant
+55 consultant
